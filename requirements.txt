@@ -1,0 +1,4 @@
+googlemaps==4.10.0
+folium==0.16.0
+gmplot==1.4.1
+geopy==2.4.1
